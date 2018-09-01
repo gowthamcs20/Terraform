@@ -42,8 +42,8 @@ vi aws.tf
 
 provider "aws" 
 {
-access_key = "AKIAJFNSZLRLVIS2LWOQ"
-secret_key = "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"
+access_key = "abc"
+secret_key = "abc"
 region = "ap-southeast-1"
 }
 
